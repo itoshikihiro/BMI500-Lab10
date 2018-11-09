@@ -1,8 +1,8 @@
 # BMI500-Lab10
-There are two python programs: I9ToI10.py and I10ToI9.py\n
-Both of them have the same functionality; however, the variables' names are different. 
-Both generates a txt file answering the questions. 
-A document named FinalAnswers.txt contains all answers in one file. 
+There are two python programs: I9ToI10.py and I10ToI9.py <hr />
+Both of them have the same functionality; however, the variables' names are different. <hr />
+Both generates a txt file answering the questions. <hr />
+A document named FinalAnswers.txt contains all answers in one file. <hr />
 
 ## How to run them
 2018_I9gem.txt is the I9 -> I10 mapping directory
