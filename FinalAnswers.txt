@@ -1,0 +1,18 @@
+I9 -> I10:
+	There are 10765, which is based on what TA told me, one-to-one entries
+	There are 6852, which is based on the defination of one-to-one in Math, one-to-one entries
+	There are 3380 one-to-many entries. 
+	There are 422 no mapping entries. 
+
+I10 ->9: 
+	There are 63112, which is based on what TA told me, one-to-one entries
+	There are 4715, which is based on the defination of one-to-one in Math, one-to-one entries
+	There are 7861 one-to-many entries. 
+	There are 731 no mapping entries.
+
+
+
+In general, one-to-many does not mean one is equivalent to many. One-to-many can also mean one is equivalent to the combination of many. In addition, the combination of many means every element in those entries represents a partial explaination to the one. 
+
+
+9->10 is more feasible because the I9 has less number of no mapping entries than I10, which means I10 lose much more information than I9 does
