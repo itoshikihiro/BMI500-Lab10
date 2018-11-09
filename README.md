@@ -1,5 +1,5 @@
 # BMI500-Lab10
-There are two python programs: I9ToI10.py and I10ToI9.py
+There are two python programs: I9ToI10.py and I10ToI9.py\n
 Both of them have the same functionality; however, the variables' names are different. 
 Both generates a txt file answering the questions. 
 A document named FinalAnswers.txt contains all answers in one file. 
